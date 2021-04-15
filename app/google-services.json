@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721042325427",
+    "project_id": "tpal-cb9b0",
+    "storage_bucket": "tpal-cb9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721042325427:android:1802a0fccd7b6cdfc155c6",
+        "android_client_info": {
+          "package_name": "com.danielpaul.tp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721042325427-kdvrg9nb9hhjvdr3iuuino9gkm94r9gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPOj1W4pNDmlcma4GMibyoUg_jC8V7wgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721042325427-kdvrg9nb9hhjvdr3iuuino9gkm94r9gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
